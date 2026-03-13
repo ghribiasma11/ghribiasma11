@@ -52,7 +52,7 @@ I also focus on **clean code, testing, and performance optimization** to deliver
 
 Previously I was using this GitHub account:
 
-👉 https://github.com/ancien-username
+👉 https://github.com/asmaghribi
 
 All my earlier projects were originally published on that account.
 Some of my public repositories are still hosted there.
@@ -61,13 +61,13 @@ Some of my public repositories are still hosted there.
 
 ## 📊 GitHub Stats
 
-![Asma's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME\&show_icons=true\&theme=tokyonight)
+![Asma's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghribiasma11\&show_icons=true\&theme=tokyonight)
 
 ---
 
 ## 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghribiasma11\&layout=compact\&theme=tokyonight)
 
 ---
 
